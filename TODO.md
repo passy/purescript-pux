@@ -1,0 +1,18 @@
+- [x] Add `toReact`
+- [x] Add `fromReact`
+- [x] Add react externals docs
+- [x] React 15 SVG attributes
+- [x] Add "mapState" function
+- [x] Add "mapEffects" function
+- [x] Merge `CoreEffects` alias
+- [x] Rewrite examples with array-notation.
+- [x] Respond to issue with `focused` solution
+- [x] Rewrite starter app with array-notation.
+- [x] Update and publish starter app for Pux 3
+- [x] use new purescript-webpack error/warning reporting
+
+- [ ] starter-app readme gif animation of hot-reload
+- [ ] Move examples to branches of starter-app repo
+- [ ] Examples for react interop
+- [ ] logo
+- [ ] Cycle flux challenge
